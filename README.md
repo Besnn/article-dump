@@ -30,6 +30,9 @@
 [Essential Habits for Productivity on Linux](https://blog.robertelder.org/linux-productivity-tips/)  
 [](https://www.prismnet.com/~chuyser/ESSlinks.htm#Traditional)
 
+### Unix
+[Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)  
+
 ### Tools
 #### Utilities
 [Swiss File Knife](http://stahlworks.com/dev/swiss-file-knife.html)  
@@ -43,7 +46,10 @@
 [math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
 
 ### Networking
+[Learn Linux, 101: Fundamentals of internet protocols – IBM Developer](https://developer.ibm.com/tutorials/l-lpic1-109-1/)  
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#what-is-a-socket)  
+[CS460 - TCP/IP Networking](https://w3.cs.jmu.edu/bernstdh/web/CS460/index.php)  
+[CS531 - Secure Programming](https://w3.cs.jmu.edu/bernstdh/web/CS531/index.php)  
 
 ### CTFs & Hacking
 [OverTheWire](https://overthewire.org/wargames/)  
@@ -59,6 +65,9 @@
 [Lambda The Ultimate](http://lambda-the-ultimate.org/)  
 [Lobsters](https://lobste.rs/)  
 
+### References
+[The Open Group Base Specifications Issue 7, 2018 edition](https://pubs.opengroup.org/onlinepubs/9699919799/)  
+
 ### OOP-related 
 [(Functional) OOP With Message Passing | by Douglas Rocha | Medium](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)  
 [And now, a friendly message from your local Tell, don’t ask Department.](https://thoughtbot.com/blog/tell-dont-ask)  
@@ -69,6 +78,10 @@
 
 ### Studying
 [Taking Notes](https://elopmental.dev/taking-notes/)  
+
+### Automation
+[Jenkins](https://www.jenkins.io/)  
+[Concourse CI](https://concourse-ci.org/)   
 
 ### Design
 #### FSM
