@@ -43,6 +43,7 @@
 [math.h/cmath.h](https://www.wikiwand.com/en/C_mathematical_functions#/Overview_of_functions)  
 
 ### Networking
+[Ethernet and IP Networking 101](https://iximiuz.com/en/posts/computer-networking-101/)  
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/#what-is-a-socket)  
 
 ### CTFs & Hacking
