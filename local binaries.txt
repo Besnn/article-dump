@@ -1,0 +1,54 @@
+bchscheme ⇒ mit-scheme
+black
+black-primer
+blackd
+broot
+ccat
+coloredlogs
+eview ⇒ vim
+evim ⇒ vim
+ex ⇒ vim
+f2py
+f2py3
+f2py3.7
+futurize
+gnome-help
+gview ⇒ vim
+gvim ⇒ vim
+gvimdiff ⇒ vim
+gvimtutor
+highlight-mint
+humanfriendly
+instant-markdown-d ⇒ ../lib/node_modules/instant-markdown-d/instant-markdown-d
+mansnip
+mate-system-monitor
+mint-sha256sum
+mit-scheme ⇒ mit-scheme-native
+mit-scheme-native ⇒ mit-scheme-x86-64
+mit-scheme-x86-64
+movie ⇒ ../lib/node_modules/movie-cli/cli.js
+n ⇒ ../lib/node_modules/n/bin/n
+npm ⇒ ../lib/node_modules/npm/bin/npm-cli.js
+npx ⇒ ../lib/node_modules/npm/bin/npx-cli.js
+pasteurize
+pdfscale
+powder64
+powerline-shell
+rgview ⇒ vim
+rgvim ⇒ vim
+rview ⇒ vim
+rvim ⇒ vim
+scheme ⇒ mit-scheme
+search
+spin
+synonym
+tiv
+tqdm
+trans
+view ⇒ vim
+vim
+vimdiff ⇒ vim
+vimtutor
+xxd
+yelp
+youtube-dl
